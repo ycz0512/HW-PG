@@ -11,6 +11,8 @@ That is, you need to fill in the blank in the `_train(...)` method defined in fi
 
 ### Prerequisites
 
+Only Python 3.6+ is supported.
+
 To install dependencies, run:
 
 ```
