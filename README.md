@@ -26,5 +26,5 @@ python run.py --env=CartPole --n_itr=100 --viz
 ```
 
 - `env` specifies the environment name. (This flag is optional. Available environments include 'CartPole', 'Acrobot', and 'MountainCar'. 'CartPole' by default.)
-- `n_itr` specifies the number of training iterations. (This flag is optional. 150 by default.)
+- `n_itr` specifies the number of training iterations. (This flag is optional. 100 by default.)
 - `viz` If this flag exists, visualize the performance of policy in training process. (This flag is optional. You can remove this flag if you don't want to visualize them.)
